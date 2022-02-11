@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there I'm Leanne 😊
+I am a Full Web Stack Developer in training with the University of Birmingham who is currently working on my third and final project!  
+If you would like to contact me please reach out to me via: </br> 
 
-<!--
-**lenny-g/lenny-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://www.linkedin.com/in/leanne-gallagher/) </br>
+[Email](mailto:leanne_gallag@live.co.uk)</br>
 
-Here are some ideas to get you started:
+You can also view my Portfolio [here](https://lenny-g.github.io/portfolio/) which has my CV attached. </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find the links to my two previous projects here: </br>
+
+Project one - [Foodtopia](https://lenny-g.github.io/foodtopia/) 🍔 </br>
+Project two - [Crush](https://crush-app-2022.herokuapp.com/) ❤️ <br>
+
+Please do not hesistate to reach out! 👍
