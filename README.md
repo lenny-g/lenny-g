@@ -16,4 +16,8 @@ You can find the links to my two previous projects here: </br>
 Project one - [Foodtopia-Deployed](https://lenny-g.github.io/foodtopia/) 🍔 [Foodtopia-Repository](https://github.com/lenny-g/foodtopia/) 🍔 </br>
 Project two - [Crush-Deployed](https://crush-app-2022.herokuapp.com/) ❤️ [Crush-Repository](https://github.com/lenny-g/dating-app/)  ❤️ <br>
 
+I have the following skills in: 
+[screenshot!](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png)
+[]()
+[]()
 Please do not hesistate to reach out! 👍
