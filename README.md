@@ -1,4 +1,4 @@
-### Leanne Gallagher 
+# Leanne Gallagher 
 ## Full Stack Web Developer
 
 I am a Full Web Stack Developer in training with the University of Birmingham who is currently working on my third and final project!  
