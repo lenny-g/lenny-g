@@ -13,9 +13,7 @@ My CV is also viewable [here](https://docs.google.com/document/d/171ySapWjK-K2E5
 
 You can find the links to my two previous projects here: </br>
 
-Project one - [Foodtopia-Deployed](https://lenny-g.github.io/foodtopia/) 🍔 </br>
-[Foodtopia-Repository](https://github.com/lenny-g/foodtopia/) 🍔 </br>
-Project two - [Crush](https://crush-app-2022.herokuapp.com/) ❤️ <br>
-[Crush-Repository](https://github.com/lenny-g/dating-app/)  ❤️ <br>
+Project one - [Foodtopia-Deployed](https://lenny-g.github.io/foodtopia/) 🍔 [Foodtopia-Repository](https://github.com/lenny-g/foodtopia/) 🍔 </br>
+Project two - [Crush](https://crush-app-2022.herokuapp.com/) ❤️ [Crush-Repository](https://github.com/lenny-g/dating-app/)  ❤️ <br>
 
 Please do not hesistate to reach out! 👍
