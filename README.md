@@ -18,6 +18,6 @@ Project two - [Crush-Deployed](https://crush-app-2022.herokuapp.com/) ❤️ [Cr
 Project three - [Schoolify-Deployed](https://schoolify2022.herokuapp.com/) 🏫 [Schoolify-Repository](https://github.com/lenny-g/schoolify-client) 🏫 <br>
 
 I have the following skills in: <br>
-<img src="https://i.ibb.co/m8SR9Sq/New-Project-1.png" width="auto" /> 
+<img src="https://i.ibb.co/0GcVTPv/skills.png" width="auto" /> 
 
 Please do not hesistate to reach out! 👍
