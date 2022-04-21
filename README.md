@@ -1,7 +1,7 @@
 # Leanne Gallagher 
 ## Full Stack Web Developer
 
-I am a Full Web Stack Developer who has just graduated from the University of Birmingham! 
+I am a Full Web Stack Developer who has just graduated from the University of Birmingham! </br>
 If you would like to contact me please reach out to me via: </br> 
 
 [LinkedIn](https://www.linkedin.com/in/leanne-gallagher/) </br>
